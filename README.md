@@ -25,7 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/catsarecoo/hello-world-100l)
+- [Hello World](https://maker.forem.com/catsarecoo/hello-world-100l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
